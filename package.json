@@ -1,0 +1,9 @@
+{
+  "name": "verce-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@vercel/node": "^2.15.3"
+  }
+}
